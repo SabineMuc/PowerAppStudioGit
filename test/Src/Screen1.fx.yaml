@@ -1,0 +1,30 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Text: |-
+            ="this is from powerapp 08:45"
+        Width: =371
+        X: =40
+        Y: =40
+        ZIndex: =1
+
+    Button1 As button:
+        Text: ="Button"
+        X: =159
+        Y: =240
+        ZIndex: =2
+
+    Label2 As label:
+        Text: ="111111"
+        X: =132
+        Y: =504
+        ZIndex: =3
+
+    Label3 As label:
+        Height: =82
+        Text: ="Neuer Mitspieler"
+        Width: =398
+        X: =642
+        Y: =333
+        ZIndex: =4
+
