@@ -29,7 +29,7 @@ Screen1 As screen:
         ZIndex: =4
 
     Label4 As label:
-        Text: ="checker"
+        Text: ="pups"
         X: =935
         Y: =170
         ZIndex: =5
