@@ -28,3 +28,9 @@ Screen1 As screen:
         Y: =333
         ZIndex: =4
 
+    Label4 As label:
+        Text: ="Text"
+        X: =935
+        Y: =170
+        ZIndex: =5
+
